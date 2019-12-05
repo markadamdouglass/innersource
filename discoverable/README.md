@@ -8,7 +8,7 @@ For your repositories to flourish, it's important that people know they exist! H
 
 ### Sharing 
 - Tell users to star your repo if they find it interesting.
-- If you have a blog or mailing list, use it. Once your repository is ready, send an announcement your subscribers.
+- If you have a blog or mailing list, use it. Once your repository is ready, send an announcement to your subscribers.
 - Share it on relevant internal networks. Invite people to check out your website and GitHub repository.
 - Reach out to others who keep interest in your work area and see if they can proactively communicate about your repo.
 - Find some enthusiastic early adopters. 
